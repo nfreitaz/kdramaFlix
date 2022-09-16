@@ -92,8 +92,7 @@ button {
 
 button:hover{
   background-color: #ECE3AC;
-  -moz-transform: scale(2.1);
-	-webkit-transform: scale(1.1);
+  transition: 1.1s;
   transform: scale(0.9);
 }
 
