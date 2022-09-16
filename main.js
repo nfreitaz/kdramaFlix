@@ -1,4 +1,4 @@
-let listaKdrama = ["/Imagem/something.png", "./Imagem/beMelodramatic.jpg", "./Imagem/Chicago_Typewriter_Poster.jpg", "./Imagem/into.jpg", "./Imagem/liberation.jpg", "./Imagem/love.jpg", "./Imagem/misaeng.jpg", "./Imagem/navillera.jpg", "./Imagem/Search-WWW-Poster1.jpg", "./Imagem/theGuest.jpg", "./Imagem/Unfamiliar.jpg","./Imagem/goblin.jpg", "./Imagem/My_Mister.jpg"];
+let listaKdrama = ["./Imagem/something.png", "./Imagem/beMelodramatic.jpg", "./Imagem/Chicago_Typewriter_Poster.jpg", "./Imagem/into.jpg", "./Imagem/liberation.jpg", "./Imagem/love.jpg", "./Imagem/misaeng.jpg", "./Imagem/navillera.jpg", "./Imagem/Search-WWW-Poster1.jpg", "./Imagem/theGuest.jpg", "./Imagem/Unfamiliar.jpg","./Imagem/goblin.jpg", "./Imagem/My_Mister.jpg"];
 
 let imagemKdrama = document.getElementById("imagens");
 
